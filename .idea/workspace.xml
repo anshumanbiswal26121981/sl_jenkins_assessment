@@ -109,22 +109,42 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606465170363</updated>
-      <workItem from="1606465172092" duration="3548000" />
+      <workItem from="1606465172092" duration="5328000" />
     </task>
+    <task id="LOCAL-00001" summary="added final name">
+      <created>1606471884626</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606471884626</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added final name" />
+    <option name="LAST_COMMIT_MESSAGE" value="added final name" />
   </component>
   <component name="WindowStateProjectService">
     <state x="525" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606465233012">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="525" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1606465233012" />
+    <state x="349" y="0" key="CommitChangelistDialog2" timestamp="1606471883196">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="349" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1606471883196" />
     <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1606469221750">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1606469221750" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1606471938870">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1606471938870" />
   </component>
   <component name="simpleUML.UMLToolWindowPlugin">
     <General>
