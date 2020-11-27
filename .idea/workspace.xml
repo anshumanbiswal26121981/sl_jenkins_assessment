@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ab3a6c7b-8c89-43da-b5c6-68dab645a4b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/webapp/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +46,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\dev\repo\poc\simplilearn\sl_jenkins_assessment\src\main\resources" />
+    </key>
   </component>
   <component name="RunManager" selected="Spring Boot.SlJenkinsAssessmentApplication">
     <configuration default="true" type="Application" factoryName="Application">
@@ -105,7 +109,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606465170363</updated>
-      <workItem from="1606465172092" duration="2499000" />
+      <workItem from="1606465172092" duration="3548000" />
     </task>
     <servers />
   </component>
