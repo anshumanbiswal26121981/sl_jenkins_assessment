@@ -1,10 +1,10 @@
-package com.simplilearn.sl_jenkins_assessment.sl_jenkins_assessment;
+package com.simplilearn.cicddemo.bookzy.bookzy;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SlJenkinsAssessmentApplicationTests {
+class BookzyApplicationTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package com.simplilearn.sl_jenkins_assessment.sl_jenkins_assessment;
+package com.simplilearn.cicddemo.bookzy.bookzy;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SlJenkinsAssessmentApplication {
+public class BookzyApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SlJenkinsAssessmentApplication.class, args);
+		SpringApplication.run(BookzyApplication.class, args);
 	}
 
 }
