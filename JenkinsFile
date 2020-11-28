@@ -1,0 +1,31 @@
+pipeline {
+    agent any
+    stages {
+         stage('Build'){
+                   steps{
+                       build job: 'BuildJob'
+
+                   }
+
+         }
+
+        stage('Test'){
+            steps{
+                build job: 'UnitTestJob'
+
+            }
+
+        }
+        stage('Package- Create Artifact'){
+             steps{
+                build job: 'PackageJob'
+             }
+        }
+
+        stage('Deploy to stage environment'){
+            steps{
+               build job: 'Deploy Application to Staging environment'
+            }
+        }
+    }
+}
